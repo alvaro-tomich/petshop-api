@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6xvsls1eDu4x6nSjkqzuKQaARPJOyEff1RcvnicyiSg=",
+  "Source": "petshop-app",
+  "BasePath": "_content/petshop-app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

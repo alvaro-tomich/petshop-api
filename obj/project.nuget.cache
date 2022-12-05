@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0RiPrYpCFG4VtyvLQgmuqm40ue0NmRHILjTqa+PrTqxx9y/lNC6/QJDBFZv394IasbKo7IUZVoosyP9/Ih8VRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\ProjetosTrybe\\Aceleração\\projeto-final\\petshop-app\\petshop-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alvar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
