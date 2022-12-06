@@ -7,8 +7,19 @@ namespace geo_pet.Models
         public int UserId { get; set; }
         public string Name { get; set; }
         public string Email { get; set; }
+        public int Phone { get; set; }
         public int Cep { get; set; }
         public string Password { get; set; }
         public List<Pet>? Pets { get; set; }
+    }
+
+        public class UserDTO
+    {
+        public int UserId { get; set; }
+        public string Name { get; set; }
+        public string Email { get; set; }
+        public int Phone { get; set; }
+        public int Cep { get; set; }
+        public string Password { get; set; }
     }
 }
