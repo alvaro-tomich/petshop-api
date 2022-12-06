@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9e9d7xmbHaxXuu0ZpFjmcWU7LWyRH1F+FGrq5qG5rtL6jxbKceOWbs3nZpK3+too/nhVgYSiZzWkULWijIhoGA==",
+  "dgSpecHash": "5ASXTH3kNVx6lLMp1wsHLltgs+PmLNP+fjWhhkVDvnc2DwWj2zirqvG8jRvnRvTeTH3C/DfJuLwm3bHxDNbLfg==",
   "success": true,
   "projectFilePath": "/home/telme/Documentos/trybe/aceleracao/projetos/projeto-final/petshop-api/src/geopet/petshop-app.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "/home/telme/.nuget/packages/microsoft.entityframeworkcore.design/7.0.0/microsoft.entityframeworkcore.design.7.0.0.nupkg.sha512",
     "/home/telme/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.0/microsoft.entityframeworkcore.relational.7.0.0.nupkg.sha512",
     "/home/telme/.nuget/packages/microsoft.entityframeworkcore.sqlserver/7.0.0/microsoft.entityframeworkcore.sqlserver.7.0.0.nupkg.sha512",
+    "/home/telme/.nuget/packages/microsoft.entityframeworkcore.tools/6.0.6/microsoft.entityframeworkcore.tools.6.0.6.nupkg.sha512",
     "/home/telme/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/telme/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "/home/telme/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
