@@ -17,15 +17,7 @@ namespace geo_pet.Controllers
         [HttpGet]
         public IActionResult GetUsers()
         {
-            var user = new UserDTO() {
-                UserId = 1,
-                Name = "Álvaro",
-                Email = "alvaroramos222@hotmail.com",
-                Phone = 5550123,
-                Cep = 5550123,
-                Password = "asdasd"
-
-            };
+            var user = _repository.GetUsers();
 
             return Ok(user);
         }
